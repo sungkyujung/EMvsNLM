@@ -1,5 +1,5 @@
 # EMvsNLM
-A numerical comparison of EM algorithm vs nlm optimizer for fitting folded normal
+A numerical comparison of EM algorithm vs nlm optimizer for fitting a folded normal distribution.
 
 This repository contains processed data (originally used in Jung, S., Foskey, M., and Marron, J. S. (2011), “Principal arc analysis on
 direct product manifolds,” The Annals of Applied Statistics, 5, 578–603), and Matlab and R codes. 
